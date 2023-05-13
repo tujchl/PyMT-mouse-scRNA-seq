@@ -1,5 +1,6 @@
 # PyMT-mouse-scRNA-seq
-Expression matrix and metadata for PyMT mouse RNA-seq
+Expression matrix and metadata for PyMT mouse RNA-seq.
+
 The seurat object to export expression matrix and meta data for you was used in figure1 of our paper (https://www.nature.com/articles/s41419-021-04261-y).
 This object comprised Lin- epithelium cells (CD31−CD140b−CD45−) and CD45+ immune cells (CD31−CD140b−CD45+).
 
